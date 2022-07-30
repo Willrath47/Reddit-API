@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300&display=swap');
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+ 
+    background-position: center center;
+    background-attachment:fixed;
+}
+button{
+    border: none;
+    border-radius: 10px;
+    width: 70%;
+    height: 15vh;
+    font-size: 10vh;
+    background-color:rgb(0, 31, 255) ;
+    color:white;
+    
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Crimson Pro', serif;
+    color: black;
+    height: 10vh;
+    font-size: 5vh;
+    font-weight: 600;
+    box-shadow: black 10px;
+}
+.botonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    font-family: 'Bungee', cursive;
+    font-size:5vh;
+}
